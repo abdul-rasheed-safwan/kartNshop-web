@@ -1,8 +1,8 @@
-# E-Commerce Website
+# kartNshop
 
 ## Project Overview
 
-The E-commerce website is a simple web application designed for online shopping. It allows users to browse a list of products, add them to their shopping cart, and proceed to checkout.
+The kartNshop is a simple web application designed for online shopping. It allows users to browse a list of products, add them to their shopping cart, and proceed to checkout.
 
 ## Features
 
